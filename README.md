@@ -8,6 +8,7 @@ List of useful articles category wise.
 * [How to loose weight in the browser](https://browserdiet.com)
 * [Cost of JavaScript](https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e)
 * [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
+* [Image compression by Addy Osmani](https://images.guide/)
 
 ### JavaScript ###
 
@@ -27,12 +28,7 @@ List of useful articles category wise.
 * []()
 * []()
 
-### Important Resources ###
-
-* [Image compression by Addy Osmani](https://images.guide/)
-
 ### Frameworks ###
-
 #### Angular ####
 * []()
 * []()
@@ -56,6 +52,6 @@ List of useful articles category wise.
 
 ### Useful Other Tools ###
 
-* []()
+* [Image Storage](https://cloudinary.com/)
 * []()
 * []()
